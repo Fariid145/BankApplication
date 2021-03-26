@@ -50,7 +50,7 @@ namespace TransferApp
             Console.WriteLine("you have successfully Registerd");
             AnotherTransaction();
 
-            string accountNumber = GenerateAccountNumber();
+            string accountNumber = RandomAccountNumber();
 
             //double _Balance = Save();
 
@@ -396,7 +396,7 @@ namespace TransferApp
         }
 
 
-        public static string GenerateAccountNumber()
+        public static string RandomAccountNumber()
         {
             Random random = new Random();
 
