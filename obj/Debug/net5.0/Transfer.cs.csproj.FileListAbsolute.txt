@@ -1,0 +1,32 @@
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\bin\Debug\net5.0\Transfer.cs.exe
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\bin\Debug\net5.0\Transfer.cs.deps.json
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\bin\Debug\net5.0\Transfer.cs.runtimeconfig.json
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\bin\Debug\net5.0\Transfer.cs.runtimeconfig.dev.json
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\bin\Debug\net5.0\Transfer.cs.dll
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\bin\Debug\net5.0\ref\Transfer.cs.dll
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\bin\Debug\net5.0\Transfer.cs.pdb
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\obj\Debug\net5.0\Transfer.cs.csprojAssemblyReference.cache
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\obj\Debug\net5.0\Transfer.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\obj\Debug\net5.0\Transfer.cs.AssemblyInfoInputs.cache
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\obj\Debug\net5.0\Transfer.cs.AssemblyInfo.cs
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\obj\Debug\net5.0\Transfer.cs.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\obj\Debug\net5.0\Transfer.cs.dll
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\obj\Debug\net5.0\ref\Transfer.cs.dll
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\obj\Debug\net5.0\Transfer.cs.pdb
+C:\Users\ABDUL MATEEN\Desktop\TransferApp\Transfer.cs\obj\Debug\net5.0\Transfer.cs.genruntimeconfig.cache
+C:\Users\fareed\Desktop\transfer.cs\bin\Debug\net5.0\Transfer.cs.exe
+C:\Users\fareed\Desktop\transfer.cs\bin\Debug\net5.0\Transfer.cs.deps.json
+C:\Users\fareed\Desktop\transfer.cs\bin\Debug\net5.0\Transfer.cs.runtimeconfig.json
+C:\Users\fareed\Desktop\transfer.cs\bin\Debug\net5.0\Transfer.cs.runtimeconfig.dev.json
+C:\Users\fareed\Desktop\transfer.cs\bin\Debug\net5.0\Transfer.cs.dll
+C:\Users\fareed\Desktop\transfer.cs\bin\Debug\net5.0\ref\Transfer.cs.dll
+C:\Users\fareed\Desktop\transfer.cs\bin\Debug\net5.0\Transfer.cs.pdb
+C:\Users\fareed\Desktop\transfer.cs\obj\Debug\net5.0\Transfer.cs.csprojAssemblyReference.cache
+C:\Users\fareed\Desktop\transfer.cs\obj\Debug\net5.0\Transfer.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fareed\Desktop\transfer.cs\obj\Debug\net5.0\Transfer.cs.AssemblyInfoInputs.cache
+C:\Users\fareed\Desktop\transfer.cs\obj\Debug\net5.0\Transfer.cs.AssemblyInfo.cs
+C:\Users\fareed\Desktop\transfer.cs\obj\Debug\net5.0\Transfer.cs.csproj.CoreCompileInputs.cache
+C:\Users\fareed\Desktop\transfer.cs\obj\Debug\net5.0\Transfer.cs.dll
+C:\Users\fareed\Desktop\transfer.cs\obj\Debug\net5.0\ref\Transfer.cs.dll
+C:\Users\fareed\Desktop\transfer.cs\obj\Debug\net5.0\Transfer.cs.pdb
+C:\Users\fareed\Desktop\transfer.cs\obj\Debug\net5.0\Transfer.cs.genruntimeconfig.cache
