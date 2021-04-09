@@ -1,0 +1,42 @@
+body
+{
+    background-color: #a2a3b2;
+}
+.box
+{
+  border: 3px solid black;
+  border-radius: 5px;
+  padding: 20px;
+  background-color: purple;
+  width: 29%;
+}
+html {
+  background-image: url("/inages/bcimg9.jpg");
+  background-repeat: repeat-y;
+ background-attachment: scroll;
+ background-size: cover;
+ 
+}
+.boxo
+{
+   border: 3px solid black;
+   border-radius: 5px;
+  padding: 20px;
+  background-color: tomato;
+  width: 29%;
+}
+.skibo
+{
+   border: 3px solid black;
+   border-radius: 5px;
+  padding: 20px;
+  background-color: blue;
+  width: 29%;
+}
+img{
+  float: left;
+  border-radius: 10px;
+   border: 5px solid black;
+   margin: 50px;
+
+}
